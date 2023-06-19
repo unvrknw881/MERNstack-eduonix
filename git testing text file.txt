@@ -1,4 +1,10 @@
 Hi there.
 
 
-working directory, staging area, local repository, remote repository
+working directory, staging area, local repository, remote repository.
+
+working directory to staging area : add
+
+staging area to local repository : commit
+
+local repository to remote repository : push
